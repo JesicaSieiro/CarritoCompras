@@ -1,0 +1,39 @@
+[
+   
+    {
+        "id":1,
+        "nombre":"Manzana Roja",
+        "categoria":"Fruta",
+        "descripcion":"Delicioza. De seleccion. Precio por kilo.",
+        "imagen":"./assets/images/productos/apple.png",
+        "precio":120,
+        "cantidad":0
+    },
+    {
+        "id":2,
+        "nombre":"Banana",
+        "categoria":"Fruta",
+        "descripcion":"Importada de Brasil. De seleccion. Precio por kilo",
+        "imagen":"./assets/images/productos/banana.png",
+        "precio":200,
+        "cantidad":0
+    },
+    {
+        "id":3,
+        "nombre":"Carne de Res",
+        "categoria":"Carne",
+        "descripcion":"Corte Americano. Precio por kilo",
+        "imagen":"./assets/images/productos/beaf steak.png",
+        "precio":980,
+        "cantidad":0
+    },
+    {
+        "id":4,
+        "nombre":"Brocoli",
+        "categoria":"Verdura",
+        "descripcion":"Precio por kilo",
+        "imagen":"./assets/images/productos/broccoli.png",
+        "precio":100,
+        "cantidad":0
+    }
+]

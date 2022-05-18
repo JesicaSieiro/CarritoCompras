@@ -87,6 +87,10 @@
     width: fit-content;
     margin: auto;
 }
+.ubicacion_cotenido{
+    color: #fff;
+    width: fit-content;
+}
 @media (min-width: 768px){
     .ubicacion_contenido {
         max-width: 720px;
